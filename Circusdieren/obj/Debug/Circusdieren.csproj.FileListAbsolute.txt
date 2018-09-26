@@ -1,0 +1,10 @@
+C:\Users\knngv\source\repos\Circusdieren\bin\Debug\Circusdieren.exe.config
+C:\Users\knngv\source\repos\Circusdieren\bin\Debug\Circusdieren.exe
+C:\Users\knngv\source\repos\Circusdieren\bin\Debug\Circusdieren.pdb
+C:\Users\knngv\source\repos\Circusdieren\obj\Debug\Circusdieren.csprojResolveAssemblyReference.cache
+C:\Users\knngv\source\repos\Circusdieren\obj\Debug\Circusdieren.Properties.Resources.resources
+C:\Users\knngv\source\repos\Circusdieren\obj\Debug\Circusdieren.csproj.GenerateResource.Cache
+C:\Users\knngv\source\repos\Circusdieren\obj\Debug\Circusdieren.csproj.CoreCompileInputs.cache
+C:\Users\knngv\source\repos\Circusdieren\obj\Debug\Circusdieren.exe
+C:\Users\knngv\source\repos\Circusdieren\obj\Debug\Circusdieren.pdb
+C:\Users\knngv\source\repos\Circusdieren\obj\Debug\Circusdieren.Hoofdmenu.resources
